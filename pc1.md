@@ -18,6 +18,7 @@ Recomendaría el uso de comunicación satelital, que de hecho es una de las comu
 
 #### Explique el concepto ancho de banda en telecomunicaciones.
 
+El ancho de banda en telecomunicaciones hace referencia a la cantidad de información que se puede transmitir por una red de comunicaciones. El concepto nace de los sistemas de transmición analógicos, donde el ancho de banda marcaba la zona de la frecuencia en la que se podía enviar la mayor cantidad de información.
 
 #### Explique las diferencias entre conmutación de paquetes y conmutación de circuitos.
 
